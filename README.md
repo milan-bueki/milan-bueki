@@ -15,4 +15,4 @@
 
 📫 **Let's connect:**
 
-[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/milan-b%C3%BCki-54575a201/)) · [E-Mail](mail@milanbueki.de)
+[LinkedIn](https://www.linkedin.com/in/milan-b%C3%BCki-54575a201/) · [E-Mail](mail@milanbueki.de)
