@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**milan-bueki/milan-bueki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 I'm a Cyber Security student with a passion for network security and ethical hacking.
+🎓 Currently studying Cyber Security and building skills through hands-on labs and real-world challenges.
+🛠️ Tools I use: Wireshark · Nmap · Metasploit · Burp Suite · Linux · Python
+🌱 Focused on penetration testing, secure network architecture, and system hardening.
+🚀 Projects & Labs
 
-Here are some ideas to get you started:
+    🔍 Packet analysis with Wireshark
+    🔐 Simulated attacks in a home lab environment
+    📡 Network scanning & vulnerability assessments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect
+
+LinkedIn · E-Mail
